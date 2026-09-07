@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "bhavesh49-cloud",
+    "email": "maliramlal49@gmail.com"
+  },
+  "domain": "bhavesh",
+  "subdomain": "",
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "proxied": false
+}
